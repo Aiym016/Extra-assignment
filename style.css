@@ -1,0 +1,24 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+h1 {
+    padding-top: 20px;
+    color:black ;
+    text-align: center;
+    font-family: 'Oswald';
+    padding-right: 50px;
+}
+ 
+img {
+    all : "https://lh3.googleusercontent.com/proxy/zHYUtIFhvkGC3VGNULLKzWEZuxYZQBGWsAHlgqbAYgOQz5rnEuKbDsDLPuXGcE-BbZyUsktqm_LCEM6imgT8gBA8IhL4SZgjscJBU6X5I4UbD4xxi6_8nGgy-VSApCkSBsCVBTRS7PRe75V6Ed72N4dFdMYs4MaB6WE";
+    all : "https://www.magicalquote.com/wp-content/uploads/2020/02/We-must-all-face-the-choice-between-what-is-right-and-what-is-easy.jpg";
+    all : "https://thejapanhobbyist.files.wordpress.com/2017/03/64013553.jpg"
+    
+}
+
+img {
+    width:  400px;
+    height: 250 px;
+}
